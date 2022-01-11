@@ -1,5 +1,5 @@
 
-const shopify_shop;
+const shopify_shop='';
 if(Shopify && Shopify.shop) shopify_shop =  Shopify.shop;
 
 /* doing the obvious shopify stuff  here */
